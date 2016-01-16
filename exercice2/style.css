@@ -1,0 +1,40 @@
+body {
+	background-color: #CDF7F2;
+}
+p {
+	font-size: 25px;
+	font-family: Comic Sans;
+	color: #156A5E;
+}
+h1 {
+	font-family: Comic Sans;
+	color: #156A5E;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+#player {
+		border-radius:5px;
+        font-weight : bold; 
+        font-family : Comic Sans; 
+        font-size : 20px; 
+		height: 30px;
+		width: 150px;
+		text-align: center;
+       
+}
+#button{
+	font-family: Comic Sans;
+	font-size: 30px;
+	border-radius:10px;
+}
+h4 {
+	text-align: center;
+}
+
+
+
+
